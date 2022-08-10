@@ -8,7 +8,7 @@
 |common|web|   |
 |temp|sre|   |
 |old|data|   |
-
+| |slack| |
 
 ## 레벨1 설명.
   * between, hellobot, storyplay : 서비스명.
