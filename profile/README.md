@@ -13,9 +13,11 @@
 |hellobot|android|design-system|
 |storyplay|server|bankserver|
 |common|web|   |
-|temp|sre|   |
-|old|data|   |
+||sre|   |
+||data|   |
 | |slack| |
+| |temp| |
+| |old| |
 
 ## 레벨1 설명.
   * between, hellobot, storyplay : 서비스명.
