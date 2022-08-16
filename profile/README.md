@@ -9,11 +9,11 @@
 
 |레벨1 : 서비스명|레벨2 : 직무명|레벨3(Optional) : 프로젝트명|
 |------|---|---|
-|between|ios|chitchat|
+|between|iOS|chitchat|
 |hellobot|android|design-system|
 |storyplay|server|bankserver|
 |common|web|   |
-||sre|   |
+||infra|   |
 ||data|   |
 | |slack| |
 | |temp| |
@@ -34,7 +34,7 @@
 
 ## 사용례
   * 스토리플레이 ios 앱
-  > storyplay-ios
+  > storyplay-iOS
   * 안드로이드 디자인 시스템 리포지토리
   > common-android-design-system
   * 헬로우봇 api 서버 
