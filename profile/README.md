@@ -13,6 +13,7 @@
 |hellobot|android|design-system|
 |storyplay|server|bankserver|
 |common|web|   |
+||ai|   |
 ||infra|   |
 ||data|   |
 | |slack| |
