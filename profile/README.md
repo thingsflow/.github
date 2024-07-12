@@ -12,6 +12,7 @@
 |between|iOS|chitchat|
 |hellobot|android|design-system|
 |storyplay|server|bankserver|
+|platform|ai|product-server|
 |common|web|   |
 ||ai|   |
 ||infra|   |
@@ -21,7 +22,7 @@
 | |old| |
 
 ## 레벨1 설명.
-  * between, hellobot, storyplay : 서비스명.
+  * between, hellobot, storyplay, platform : 서비스명.
   * common : 공통 모듈. 여러 서비스에서 가져다 쓰거나, 어느 서비스와도 관련이 없는 경우.
   * temp : 테스트 목적, 또는 임시 개발 목적으로 만드는 리포지토리. 
   * old : 소속이 분명하지 않고, 1년 이상 commit 기록이 없는 경우.
